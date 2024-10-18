@@ -1,0 +1,464 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product": "Orange Soda",
+      "price": 799
+    },
+    {
+      "id": 2,
+      "product": "SodaStream",
+      "price": 1299
+    },
+    {
+      "id": 3,
+      "product": "Apple Juice",
+      "price": 599
+    },
+    {
+      "id": 4,
+      "product": "Banana",
+      "price": 199
+    },
+    {
+      "id": 5,
+      "product": "Toothbrush",
+      "price": 399
+    },
+    {
+      "id": 6,
+      "product": "Shampoo",
+      "price": 699
+    },
+    {
+      "id": 7,
+      "product": "Hand Soap",
+      "price": 499
+    },
+    {
+      "id": 8,
+      "product": "Paper Towels",
+      "price": 899
+    },
+    {
+      "id": 9,
+      "product": "Laundry Detergent",
+      "price": 1099
+    },
+    {
+      "id": 10,
+      "product": "Chocolate Bar",
+      "price": 199
+    },
+    {
+      "id": 11,
+      "product": "Coffee Mug",
+      "price": 499
+    },
+    {
+      "id": 12,
+      "product": "Tea Kettle",
+      "price": 1599
+    },
+    {
+      "id": 13,
+      "product": "Face Mask",
+      "price": 299
+    },
+    {
+      "id": 14,
+      "product": "Notebook",
+      "price": 699
+    },
+    {
+      "id": 15,
+      "product": "Ballpoint Pen",
+      "price": 149
+    },
+    {
+      "id": 16,
+      "product": "Desk Lamp",
+      "price": 2199
+    },
+    {
+      "id": 17,
+      "product": "Pencil Sharpener",
+      "price": 299
+    },
+    {
+      "id": 18,
+      "product": "Highlighter",
+      "price": 199
+    },
+    {
+      "id": 19,
+      "product": "Water Bottle",
+      "price": 999
+    },
+    {
+      "id": 20,
+      "product": "Bluetooth Speaker",
+      "price": 2999
+    },
+    {
+      "id": 21,
+      "product": "Wireless Mouse",
+      "price": 2499
+    },
+    {
+      "id": 22,
+      "product": "Laptop Stand",
+      "price": 1899
+    },
+    {
+      "id": 23,
+      "product": "Monitor Riser",
+      "price": 2299
+    },
+    {
+      "id": 24,
+      "product": "USB Hub",
+      "price": 1299
+    },
+    {
+      "id": 25,
+      "product": "Portable Charger",
+      "price": 1999
+    },
+    {
+      "id": 26,
+      "product": "Headphones",
+      "price": 1499
+    },
+    {
+      "id": 27,
+      "product": "Sunglasses",
+      "price": 1299
+    },
+    {
+      "id": 28,
+      "product": "Running Shoes",
+      "price": 5999
+    },
+    {
+      "id": 29,
+      "product": "Yoga Mat",
+      "price": 2499
+    },
+    {
+      "id": 30,
+      "product": "Tennis Ball",
+      "price": 499
+    },
+    {
+      "id": 31,
+      "product": "Gym Bag",
+      "price": 3499
+    },
+    {
+      "id": 32,
+      "product": "Protein Shake",
+      "price": 399
+    },
+    {
+      "id": 33,
+      "product": "Sweatband",
+      "price": 699
+    },
+    {
+      "id": 34,
+      "product": "Resistance Band",
+      "price": 999
+    },
+    {
+      "id": 35,
+      "product": "Jump Rope",
+      "price": 899
+    },
+    {
+      "id": 36,
+      "product": "Wrist Watch",
+      "price": 4999
+    },
+    {
+      "id": 37,
+      "product": "Pocket Knife",
+      "price": 2499
+    },
+    {
+      "id": 38,
+      "product": "Flashlight",
+      "price": 1499
+    },
+    {
+      "id": 39,
+      "product": "Camping Tent",
+      "price": 8999
+    },
+    {
+      "id": 40,
+      "product": "Sleeping Bag",
+      "price": 5499
+    },
+    {
+      "id": 41,
+      "product": "Hiking Boots",
+      "price": 7999
+    },
+    {
+      "id": 42,
+      "product": "Travel Pillow",
+      "price": 1599
+    },
+    {
+      "id": 43,
+      "product": "Backpack",
+      "price": 3499
+    },
+    {
+      "id": 44,
+      "product": "Ski Gloves",
+      "price": 2999
+    },
+    {
+      "id": 45,
+      "product": "Rain Jacket",
+      "price": 4599
+    },
+    {
+      "id": 46,
+      "product": "Winter Hat",
+      "price": 1299
+    },
+    {
+      "id": 47,
+      "product": "Leather Belt",
+      "price": 1999
+    },
+    {
+      "id": 48,
+      "product": "Wallet",
+      "price": 1799
+    },
+    {
+      "id": 49,
+      "product": "Keychain",
+      "price": 499
+    },
+    {
+      "id": 50,
+      "product": "Beanie",
+      "price": 899
+    },
+    {
+      "id": 51,
+      "product": "Sofa Cushion",
+      "price": 1499
+    },
+    {
+      "id": 52,
+      "product": "Curtain Rod",
+      "price": 2599
+    },
+    {
+      "id": 53,
+      "product": "Coffee Table",
+      "price": 6999
+    },
+    {
+      "id": 54,
+      "product": "Floor Lamp",
+      "price": 3299
+    },
+    {
+      "id": 55,
+      "product": "Desk Organizer",
+      "price": 1299
+    },
+    {
+      "id": 56,
+      "product": "Wall Clock",
+      "price": 1999
+    },
+    {
+      "id": 57,
+      "product": "Photo Frame",
+      "price": 799
+    },
+    {
+      "id": 58,
+      "product": "Dish Rack",
+      "price": 1199
+    },
+    {
+      "id": 59,
+      "product": "Blender",
+      "price": 2999
+    },
+    {
+      "id": 60,
+      "product": "Juicer",
+      "price": 2299
+    },
+    {
+      "id": 61,
+      "product": "Electric Kettle",
+      "price": 2499
+    },
+    {
+      "id": 62,
+      "product": "Rice Cooker",
+      "price": 3999
+    },
+    {
+      "id": 63,
+      "product": "Toaster Oven",
+      "price": 4499
+    },
+    {
+      "id": 64,
+      "product": "Cutting Board",
+      "price": 999
+    },
+    {
+      "id": 65,
+      "product": "Chef Knife",
+      "price": 3499
+    },
+    {
+      "id": 66,
+      "product": "Baking Sheet",
+      "price": 1299
+    },
+    {
+      "id": 67,
+      "product": "Measuring Cup",
+      "price": 599
+    },
+    {
+      "id": 68,
+      "product": "Grater",
+      "price": 499
+    },
+    {
+      "id": 69,
+      "product": "Spatula",
+      "price": 399
+    },
+    {
+      "id": 70,
+      "product": "Mixing Bowl",
+      "price": 799
+    },
+    {
+      "id": 71,
+      "product": "Wine Glass",
+      "price": 499
+    },
+    {
+      "id": 72,
+      "product": "Beer Mug",
+      "price": 599
+    },
+    {
+      "id": 73,
+      "product": "Cocktail Shaker",
+      "price": 1999
+    },
+    {
+      "id": 74,
+      "product": "Ice Tray",
+      "price": 299
+    },
+    {
+      "id": 75,
+      "product": "Water Filter",
+      "price": 2499
+    },
+    {
+      "id": 76,
+      "product": "Air Purifier",
+      "price": 8999
+    },
+    {
+      "id": 77,
+      "product": "Thermostat",
+      "price": 5999
+    },
+    {
+      "id": 78,
+      "product": "Ceiling Fan",
+      "price": 6999
+    },
+    {
+      "id": 79,
+      "product": "Extension Cord",
+      "price": 799
+    },
+    {
+      "id": 80,
+      "product": "Power Strip",
+      "price": 1299
+    },
+    {
+      "id": 81,
+      "product": "Light Bulb",
+      "price": 299
+    },
+    {
+      "id": 82,
+      "product": "Smart Plug",
+      "price": 1999
+    },
+    {
+      "id": 83,
+      "product": "Router",
+      "price": 4999
+    },
+    {
+      "id": 84,
+      "product": "Ethernet Cable",
+      "price": 599
+    },
+    {
+      "id": 85,
+      "product": "Printer Ink",
+      "price": 2999
+    },
+    {
+      "id": 86,
+      "product": "Keyboard",
+      "price": 1999
+    },
+    {
+      "id": 87,
+      "product": "Mouse Pad",
+      "price": 499
+    },
+    {
+      "id": 88,
+      "product": "Monitor Stand",
+      "price": 2999
+    },
+    {
+      "id": 89,
+      "product": "External Hard Drive",
+      "price": 6999
+    },
+    {
+      "id": 90,
+      "product": "USB Flash Drive",
+      "price": 999
+    },
+    {
+      "id": 91,
+      "product": "Webcam",
+      "price": 2499
+    },
+    {
+      "id": 92,
+      "product": "Microphone",
+      "price": 3999
+    }
+  ]
+}
