@@ -18,4 +18,5 @@ export type TSearchInput = {
     className?: string;
     onChange: (e: any, data: any) => void;
     value: any;
+    onKeyDown?: (e: any) => void;
 }

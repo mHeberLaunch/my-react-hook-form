@@ -3,7 +3,7 @@ import { Autocomplete, AutocompleteRenderInputParams, TextField } from "@mui/mat
 import { TSearchInput } from "@/types/types";
 import { mapSearchInputOptions } from "@/utils/utils";
 
-const SearchInput = ({ label, options, className = '', onChange, value }: TSearchInput) => {
+const SearchInput = ({ label, options, className = '', onChange, value, onKeyDown }: TSearchInput) => {
     const mappedOptions = mapSearchInputOptions(options);
     const renderInput = (params: AutocompleteRenderInputParams) => <TextField {...params} />;
     return (
@@ -15,6 +15,7 @@ const SearchInput = ({ label, options, className = '', onChange, value }: TSearc
                 sx={{ width: 300 }}
                 renderInput={renderInput}
                 onChange={onChange}
+                onKeyDown={onKeyDown}
                 value={value}
             />
         </div>
